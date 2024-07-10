@@ -3,7 +3,7 @@
 * 创建人：qhy
 * 创建时间：2024.07.02
 * 题目来源：程序员面试金典
-* 代码描述：01.01 判定字符是否唯一(https://leetcode.cn/studyplan/cracking-the-coding-interview/)
+* 代码描述：01.01.判定字符是否唯一(https://leetcode.cn/studyplan/cracking-the-coding-interview/)
 ***********************************************/
 
 #include <algorithm>
