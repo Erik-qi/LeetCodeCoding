@@ -4,7 +4,7 @@
 * 创建时间：2024.07.14
 * 题目来源：程序员面试金典
 * 代码描述：02.03.删除中间节点
-* 复杂度分析：(https://leetcode.cn/studyplan/cracking-the-coding-interview/)
+* 复杂度分析：O(1)(https://leetcode.cn/studyplan/cracking-the-coding-interview/)
 ***********************************************/
 
 #include <iostream>
